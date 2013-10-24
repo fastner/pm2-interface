@@ -12,7 +12,7 @@
   },
   "main": "index.js",
   "dependencies" : {
-    "axon"           : "1.0.0",    
+    "axon"           : "git://github.com/fastner/axon.git#master",    
     "axon-rpc"       : "0.0.2",
     "debug"          : "*"
   },
